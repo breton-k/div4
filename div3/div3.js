@@ -60,7 +60,7 @@ var infoState = {
 var creditState = {
     preload: function() {
         this.load.image('background', 'backgrounds/titleBackground.png');
-        this.load.image('backGroundGrass', 'backgrounds/titleGrass3.png');
+        this.load.image('backGroundGrass', 'backgrounds/titleGrass2.png');
         this.load.image('menuButton', 'buttons/menuButton.png');
     },
     create: function() {
